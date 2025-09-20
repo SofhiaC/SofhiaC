@@ -8,7 +8,7 @@ Here you can explore my projects and the programming languages and frameworks I'
 
 Feel free to send me a message at: chromiecsofhia@gmail.com
 
---- 
+---
 
 ## Boas-vindas!
 
