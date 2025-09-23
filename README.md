@@ -33,4 +33,4 @@ Sinta-se à vontade para me enviar uma mensagem por e-mail: chromiecsofhia@gmail
 
 ### Portfólio
 
-Confira meu trabalho completo em: [Meu Portfólio](https://link)
+Confira meu trabalho completo em: [Meu Portfólio](https://sofhiac.github.io/portfolio-2025/)
